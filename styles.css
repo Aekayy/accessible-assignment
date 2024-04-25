@@ -252,11 +252,11 @@ textarea{
 	width: 90%;
 	height: 100px;
 	margin: 0.25em auto 0.5em auto;
-	padding: 1em;
+	padding: 0.5em;
 }
 
 input[type="radio"]{
-	margin-top: 0.4em;
+	margin-top: 1em;
 	outline: none;
 	border: 1px solid #222;
 	border-radius: 25%;
