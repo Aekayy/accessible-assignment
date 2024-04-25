@@ -217,9 +217,9 @@ input:error, select:error, textarea:error{
 }
 
 fieldset{
-	margin: 0.5em auto;
-	padding-bottom: 0.5em;
-	width: 94%;
+	margin: 0.7em auto;
+	padding-bottom: 0.7em;
+	width: 100%;
 	border: 1px solid #222;
 	border-radius: 0.2em;
 	display: grid;
